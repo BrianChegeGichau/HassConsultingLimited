@@ -1,4 +1,4 @@
-# HassConsultingLimited
+# Context
 Am tasked to create models to predict the houses based on the given predictor variables.
 
 I used five approaches for this:
